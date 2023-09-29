@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alexandre%20J;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alexandre%20J;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandre-j-dev&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="alexandre-j-dev github stats" /> 
