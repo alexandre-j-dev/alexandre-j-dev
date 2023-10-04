@@ -22,22 +22,22 @@
 
 ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-gray?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=Javascript&logoColor=FFFF00)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=Javascript)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-gray?style=for-the-badge&logo=windows)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=for-the-badge&logo=ubuntu)&nbsp;
 
 ### Other Knowledge:
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-gray?style=for-the-badge&logo=microsoft-office)&nbsp;
 
   
 ### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=Kotlin&logoColor=6A5ACD)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=Kotlin)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
