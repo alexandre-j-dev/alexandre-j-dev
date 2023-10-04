@@ -21,23 +21,23 @@
   
 
 ### Main skills:
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=00008B)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=Javascript&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-gray?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=Javascript&logoColor=FFFF00)&nbsp;
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-gray?style=for-the-badge&logo=windows)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=for-the-badge&logo=ubuntu&logoColor=orange)&nbsp;
 
 ### Other Knowledge:
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-gray?style=for-the-badge&logo=microsoft-office)&nbsp;
 
   
 ### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/Kotlin-6A5ACD?style=for-the-badge&logo=Kotlin&logoColor=orange&labelColor=blue)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=Kotlin&logoColor=6A5ACD)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -45,4 +45,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
