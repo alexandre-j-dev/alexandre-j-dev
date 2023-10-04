@@ -37,7 +37,7 @@
 
   
 ### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/Kotlin-9370DB?style=for-the-badge&logo=Kotlin&logoColor=orange&labelColor=blue)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-6A5ACD?style=for-the-badge&logo=Kotlin&logoColor=orange&labelColor=blue)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -45,4 +45,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>****
