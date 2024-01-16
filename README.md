@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-gray?style=for-the-badge&logo=windows)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-gray?style=for-the-badge&logo=ubuntu)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=Linux)&nbsp;
 
 ### Other Knowledge:
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-gray?style=for-the-badge&logo=microsoft-office)&nbsp;
@@ -39,6 +39,8 @@
   
 ### Studying in this moment:
 ![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge&logo=Kotlin)&nbsp;
+![Owasp](https://img.shields.io/badge/Owasp-gray?style=for-the-badge&logo=Owasp)&nbsp;
+![Kali_Linux](https://img.shields.io/badge/Kali-gray?style=for-the-badge&logo=kali-linux)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
